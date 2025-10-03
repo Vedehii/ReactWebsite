@@ -1,7 +1,7 @@
 import aboutimage from "./Mask Group.png";
 import aboutimage2 from "./Group 158.png";
-import vision from "./Mask Group (1).png";
-import mission from "./Mask Group (2).png";
+import vision from "./Mask group (1).png";
+import mission from "./Mask group (2).png";
 import Image1 from "./Image-255.png";
 import Image2 from "./Image2.png";
 import Image3 from "./Image3.png";
