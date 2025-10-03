@@ -123,7 +123,7 @@ const VisionMission = () => {
         </div>
 
         {/* Text Content */}
-        <div className="flex-1 md:text-right">
+        <div className="flex-1 md:text-left">
           <h2 className="text-3xl font-extrabold text-gray-800 mb-4">Mission</h2>
           <p className="text-gray-600 leading-relaxed text-lg">
             Our mission is to be the #1 internship-to-career platform, where students gain hands-on experience, build networks, and unlock career opportunities. By connecting learners with real clients and expert mentors, we turn every project into a step toward success.
