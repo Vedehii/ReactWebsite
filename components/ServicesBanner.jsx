@@ -4,9 +4,7 @@ const services = [
   { name: 'Software Development' },
   { name: 'Cloud Solutions' },
   { name: 'Cybersecurity' },
-  { name: 'Software Development' },
-  { name: 'Cloud Solutions' },
-  { name: 'Cybersecurity' },
+  
 ];
 
 const StarburstIcon = () => (
