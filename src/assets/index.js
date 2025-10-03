@@ -1,4 +1,4 @@
-import aboutimage from "./Mask Group.png";
+import aboutimage from "./Mask group.png";
 import aboutimage2 from "./Group 158.png";
 import vision from "./Mask group (1).png";
 import mission from "./Mask group (2).png";
