@@ -22,7 +22,7 @@ You need to have **Node.js** (which includes **npm** or **yarn**) installed on y
 ### 1\. Clone the Repository
 
 ```bash
-git clone https://github.com/Vedehii/ReactWebsite
+git clone (https://github.com/Vedehii/ReactWebsite)
 cd ReactWebsite
 ```
 
