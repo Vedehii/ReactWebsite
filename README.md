@@ -110,4 +110,4 @@ We welcome feedback and suggestions\! Feel free to open an issue or submit a pul
 
 ## 👤 Author
 
-  * **\Vedehi Prajapati** - [Your GitHub Profile Link]
+  * **Vedehi Prajapati** - (https://github.com/Vedehii)
