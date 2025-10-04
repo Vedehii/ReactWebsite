@@ -9,7 +9,7 @@ const Header = () => {
 
   return (
     <div className="w-full"> 
-      <div className="relative w-full h-[300px] mt-16">
+      <div className="relative w-full h-[300px]">
         <div
           className="absolute inset-0 bg-cover bg-center"
           style={{
