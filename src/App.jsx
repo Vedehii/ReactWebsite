@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Header, Navbar, VisionMission, CoreValues, OurTeam, Blog, Footer,CTABanner } from './components/index.js';
+import { Header, Navbar, VisionMission, CoreValues, OurTeam, Blog, Footer } from './components/index.js';
 import './App.css';
 
 

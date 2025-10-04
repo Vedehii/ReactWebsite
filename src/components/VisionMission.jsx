@@ -1,5 +1,5 @@
 import React from 'react';
-import { vision, mission } from '../assets/index.js';
+import { vision, mission } from '../assets';
 
 import LogoHeading from '../../components/logo';
 
