@@ -82,7 +82,7 @@ const Blog = () => {
               </div>
             </div>
 
-            {/* Blog Card (Reduced Size) */}
+            {/* Blog Card */}
             <div className="relative bg-white rounded-2xl shadow-lg overflow-hidden cursor-pointer transform transition-all duration-300 hover:shadow-xl hover:scale-105 h-48">
               <div className="flex items-center p-4 h-full">
                 <div className="flex-grow flex items-center">
