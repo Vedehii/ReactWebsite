@@ -1,6 +1,8 @@
 import { useState } from 'react';
-import { Header, Navbar, VisionMission, CoreValues, OurTeam, Blog, Footer } from './components/index.js';
+import { Header, Navbar, VisionMission, CoreValues, OurTeam, Blog,Doet,Footer,CaseStudies } from './components/index.js';
 import './App.css';
+
+
 
 
 
@@ -13,7 +15,10 @@ const App = () => {
       <CoreValues />
       <OurTeam />
       <Blog />
+      <Doet/>
+      <CaseStudies/>
       <Footer />
+
     </div>
   );
 };

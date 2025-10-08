@@ -10,6 +10,9 @@ import BlogImage1 from "./image 49.png";
 import BlogImage2 from "./image 52.png";
 import BlogImage3 from "./image 51.png";
 import CTABanner from "./Group 158.png";
+import DoetImage from "./Mask group (3).png";
+import FeaturedCaseStudy1 from "./image 92.png";
+import FeaturedCaseStudy2 from "./image 93.png";
 
 
-export {aboutimage, aboutimage2, vision, mission, Image1, Image2, Image3, Image4, BlogImage1, BlogImage2, BlogImage3,CTABanner};
+export {aboutimage, aboutimage2, vision, mission, Image1, Image2, Image3, Image4, BlogImage1, BlogImage2, BlogImage3,CTABanner, DoetImage, FeaturedCaseStudy1, FeaturedCaseStudy2};
