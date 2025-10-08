@@ -118,8 +118,8 @@ export default function App() {
         <div className="flex space-x-2">
           <button
             onClick={goToPrev}
-            >
             className="w-10 h-10 bg-white rounded-full shadow-md flex items-center justify-center hover:bg-[#5400FE]/10 transition"
+          >
             <ArrowRight className="rotate-180" />
           </button>
           <button
