@@ -20,13 +20,13 @@ const ArrowRight = ({ className = "" }) => (
 );
 
 const TagPill = ({ text, bgColor, textColor }) => (
-  <div className={`px-3 py-1 text-sm font-semibold rounded-full ${bgColor} ${textColor}`}>
+  <div className={`px-4 py-2 text-base font-semibold rounded-xl ${bgColor} ${textColor}`}>
     {text}
   </div>
 );
 
 const CaseStudyCard = ({ data }) => (
-  <div className="bg-white rounded-xl shadow-2xl transition-all duration-300 hover:shadow-purple-400/50 flex flex-col h-full">
+  <div className="bg-white rounded-xl shadow-lg hover:shadow-blue-400/50 transition-shadow duration-300 flex flex-col h-full overflow-visible">
     <div className="p-4 sm:p-6">
       <img
         src={data.imageUrl}
@@ -113,7 +113,7 @@ export default function App() {
 
   return (
     <div className="min-h-screen bg-[#DCDEF8] p-4 sm:p-8 font-['Inter'] overflow-x-hidden py-4 px-4">
-      <div className="max-w-6xl mx-auto mb-10 flex justify-between items-center p-2">
+      <div className="max-w-7xl mx-auto mb-10 flex justify-between items-center">
         <h1 className="text-2xl sm:text-3xl font-bold text-[#5400FE]">Featured Case Studies</h1>
         <div className="flex space-x-2">
           <button
