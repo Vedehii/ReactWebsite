@@ -4,7 +4,7 @@ import LogoHeading from '../../components/logo.jsx';
 import ServiceBanner from '../../components/ServicesBanner.jsx';
 
 const Doet = () => {
-  const [activeIndex, setActiveIndex] = useState(0);
+  const [activeIndex, setActiveIndex] = useState(1);
 
   const cards = [
     { title: "Job offers", text: "Get hired directly through project performance and partner company placements." },
